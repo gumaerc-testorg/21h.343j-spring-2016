@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-343j-making-books-the-renaissance-and-today-spring-2016/d40f6955514d650d385fc898fb047094_Image10.jpg
+file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d40f6955514d650d385fc898fb047094_Image10.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The dedication page from Introduction to Fantastic Flowers and Where to
     Find Them (Beaver Press, Fall 2017).
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image10.jpg
 uid: d40f6955-514d-650d-385f-c898fb047094

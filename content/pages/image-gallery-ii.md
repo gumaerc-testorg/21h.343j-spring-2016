@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery II
 uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 ---
 
 During the Spring 2016 semester, students designed and built a handset printing press which now resides in the [Beaver Press Print Shop](http://beaverpress.mit.edu/). This image gallery contains photos taken during that semester.
-{{< image-gallery id="38659a33-436d-bde7-c9d6-e20765d008ed_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21h-343j-making-books-the-renaissance-and-today-spring-2016/" >}}
+{{< image-gallery id="38659a33-436d-bde7-c9d6-e20765d008ed_nanogallery2" baseUrl="/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/" >}}
 {{< image-gallery-item href="f66fb7fd8477c1072a834605d4398417_Image1.jpg" data-ngdesc="21H.343JS16 Image Gallery - MIT OpenCourseWare." text="MIT Hobby Shops Ken Stone assists students in the building of the printing press." >}}
 {{< image-gallery-item href="a1926f5080e885c4796776addc24d774_Image2.jpg" data-ngdesc="21H.343JS16 Image Gallery - MIT OpenCourseWare." text="The students take measurements for their printing press." >}}
 {{< image-gallery-item href="a3c253d592db6ad7cba0f92ca2fcc8a6_Image3.jpg" data-ngdesc="21H.343JS16 Image Gallery - MIT OpenCourseWare." text="Students screw pieces of the printing press together." >}}

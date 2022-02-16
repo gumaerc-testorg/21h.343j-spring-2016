@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery III
 uid: a8ce3ab1-4edd-d944-05b6-2413bb094d59
 ---
 
 This image gallery contains photos taken during the Fall 2017 semester.
-{{< image-gallery id="a8ce3ab1-4edd-d944-05b6-2413bb094d59_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21h-343j-making-books-the-renaissance-and-today-spring-2016/" >}}
+{{< image-gallery id="a8ce3ab1-4edd-d944-05b6-2413bb094d59_nanogallery2" baseUrl="/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/" >}}
 {{< image-gallery-item href="d72136c3be81a4268a61ec4b814dca86_Image1.jpg" data-ngdesc="" text="The Beaver Press, established 2016 C.E." >}}
 {{< image-gallery-item href="200788e32036269124b208fcd6b92e2b_Image2.jpg" data-ngdesc="" text="The printing press, built by 21H.343J / CC.120J in Spring 2016." >}}
 {{< image-gallery-item href="0e08d596118c63ccd13fbf91bb69f38a_Image3.jpg" data-ngdesc="" text="The printing press, built by 21H.343J / CC.120J in Spring 2016." >}}

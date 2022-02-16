@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 364e7205-8baf-876d-eff7-770f80369e00
 ---
@@ -10,7 +12,7 @@ Course Overview
 
 This page focuses on the course _21H.343J / CC.120J_ _Making Books: The Renaissance and Today_ as it was taught by Professors Anne McCants and Jeffrey S. Ravel in Spring 2016.
 
-Part of the [Concourse](http://concourse.mit.edu/) program at MIT, this course explored the impact of new technology on the recording and distribution of words and images at three different times: the invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19th century (telegraph, telephone, photograph); and the emergence of digital media today.
+Part of the [Concourse](http://concourse.mit.edu/) program at MIT, this course explored the impact of new technology on the recording and distribution of words and images at three different times: the invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19{{< sup "th" >}} century (telegraph, telephone, photograph); and the emergence of digital media today.
 
 Assignments included essays and online projects. Students also participated in the design and construction of a hand-set printing press. Learn more here:
 
@@ -69,28 +71,6 @@ HASS-H ![General Institute Requirements](/images/educator/icon-question-hass-h.p
 ### Offered
 
 Offered for the first time in Spring 2016
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small classroom with a large wood table surrounded by grey chairs, with chalkboards on either side.]({{< resource_file 340a93c8-b689-8e11-8995-08b5ac6ec778 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Seminar
-    
-    This course was taught in a small classroom equipped with chalkboards and a large seminar table.
-    
-*   ![Open space filled with workbenches and tools.]({{< resource_file 921ca4b1-7eeb-48f2-793b-c439c31e1611 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### MIT Hobby Shop
-    
-    Students built a handset printing press in the MIT Hobby Shop, a space outfitted with woodworking tools and other equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

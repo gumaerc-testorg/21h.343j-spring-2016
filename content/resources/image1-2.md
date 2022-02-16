@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-343j-making-books-the-renaissance-and-today-spring-2016/d72136c3be81a4268a61ec4b814dca86_Image1.jpg
+file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d72136c3be81a4268a61ec4b814dca86_Image1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The Beaver Press, established 2016 C.E.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image1.jpg
 uid: d72136c3-be81-a426-8a61-ec4b814dca86

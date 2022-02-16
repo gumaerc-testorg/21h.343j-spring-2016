@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: The printing press built by students in the MIT Hobby Shop.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-343j-making-books-the-renaissance-and-today-spring-2016/1c57a5f4231adbf659286e6f900954da_printing_press.jpg
+file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/1c57a5f4231adbf659286e6f900954da_printing_press.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: printing press image
 uid: 1c57a5f4-231a-dbf6-5928-6e6f900954da

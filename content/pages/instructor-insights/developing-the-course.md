@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: Developing the Course
 uid: 2a10e49b-5443-b31f-0468-4df53672b9bf

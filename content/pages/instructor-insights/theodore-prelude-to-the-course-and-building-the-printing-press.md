@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: 'Theodore: Prelude to the Course and Building the Printing Press'
 uid: c7a86549-e9b1-bc62-479b-84ecf88b7294

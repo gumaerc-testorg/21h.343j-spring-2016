@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: 'The Role of Online Fora '
 uid: c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa
