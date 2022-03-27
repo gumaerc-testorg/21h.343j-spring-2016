@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 349f2910-c391-c491-0f1a-d39f02692334
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Renaissance Religion'
 uid: 4729c351-184e-ef0f-d6f1-74fa1884d9a0

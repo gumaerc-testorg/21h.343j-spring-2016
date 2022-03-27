@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82abea80-ae9a-391f-2cda-304f03f1072d
 resourcetype: Document
 title: 21H.343J/CC.120J Making Books - First Paper Topics
 uid: f5c00f5c-9275-8653-5a45-3a8c499831c2

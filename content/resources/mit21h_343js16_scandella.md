@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82abea80-ae9a-391f-2cda-304f03f1072d
 resourcetype: Document
 title: 21H.343J/CC.120J Making Books - Student Example 1
 uid: fab51a22-8024-0d41-77de-ec4ce2c11ffd

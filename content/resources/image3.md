@@ -21,6 +21,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
+parent_uid: d5eb05af-c075-0701-5694-f196e945a11c
 resourcetype: Image
 title: Image 3 - Top view diagram of  the Beaver Press
 uid: adffac5f-3ea2-87fd-ece6-ef9ec4830d05

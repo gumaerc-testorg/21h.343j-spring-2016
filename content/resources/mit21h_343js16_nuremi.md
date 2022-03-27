@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 349f2910-c391-c491-0f1a-d39f02692334
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Nuremberg I'
 uid: 15f88545-fa75-73c7-acf1-c7bffddf77c9

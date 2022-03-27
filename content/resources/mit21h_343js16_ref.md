@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 349f2910-c391-c491-0f1a-d39f02692334
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Reformation Images'
 uid: 9ee1c086-50f8-af39-8a71-c827a0e08b19

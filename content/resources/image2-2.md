@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery III
 parent_type: CourseSection
+parent_uid: a8ce3ab1-4edd-d944-05b6-2413bb094d59
 resourcetype: Image
 title: Image2.jpg
 uid: 200788e3-2036-2691-24b2-08fcd6b92e2b
