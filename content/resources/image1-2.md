@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d72136c3be81a4268a61ec4b814dca86_Image1.jpg
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d72136c3be81a4268a61ec4b814dca86_Image1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The Beaver Press, established 2016 C.E.

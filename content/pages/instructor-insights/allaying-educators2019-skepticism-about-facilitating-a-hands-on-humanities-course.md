@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Professor Anne McCants shares her insights about facilitating
+  a hands-on humanities course and addresses educators who may be skeptical of evaluating
+  student work in this context.     '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

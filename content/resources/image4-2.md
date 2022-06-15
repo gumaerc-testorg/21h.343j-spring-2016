@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/e661d0ed488422e5f268ba2d08cc6bfc_Image4.jpg
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/e661d0ed488422e5f268ba2d08cc6bfc_Image4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 36-point Dante Italic type.

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Professor Jeffrey Ravel describes how offering students\
+  \ tangible experiences with archival materials helped ground the readings and provided\
+  \ a foundation for students\u2019 building of the press and paper-making. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

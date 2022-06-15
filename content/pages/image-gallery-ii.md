@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a gallery of photos taken while students designed
+  and built a handset printing press.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery II

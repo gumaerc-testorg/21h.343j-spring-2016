@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Jeffrey Ravel describes how the instructors
+  used online fora as a tool for engaging students in thinking comparatively about
+  media in the Early Modern period and today.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

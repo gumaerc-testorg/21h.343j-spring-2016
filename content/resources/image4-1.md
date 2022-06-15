@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-file: /media/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/6ca9887131afbbd2a73491656a05bf6f_Image4.jpg
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/6ca9887131afbbd2a73491656a05bf6f_Image4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Professor Ravel helps the students attach a piece to the press.
@@ -17,3 +17,5 @@ resourcetype: Image
 title: Image4.jpg
 uid: 6ca98871-31af-bbd2-a734-91656a05bf6f
 ---
+21H.343JS16 Image Gallery - MIT OpenCourseWare.
+
