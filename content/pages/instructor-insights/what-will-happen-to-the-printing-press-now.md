@@ -1,16 +1,14 @@
 ---
 content_type: page
-layout: instructor_insights
-learning_resource_types: []
-ocw_type: CourseSection
-parent_title: Instructor Insights
-parent_type: ThisCourseAtMITSection
+description: 'In this section, Professor Jeffrey Ravel describes future plans for
+  the printing press built by students in 21H.343J / CC.120J Making Books: The Renaissance
+  and Today.  '
+draft: false
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: What Will Happen to the Printing Press Now?
 uid: fc399584-e0b8-f0f6-6ecc-27362e24c09b
 ---
-
-_In this section, Professor Jeffrey Ravel describes future plans for the printing press built by students in_ 21H.343J / CC.120J Making Books: The Renaissance and Today_._
+_In this section, Professor Jeffrey Ravel describes future plans for the printing press built by students in_ 21H.343J / CC.120J Making Books: The Renaissance and Today.
 
 {{< quote "We would love it if the press became a key component of a future Center for the Book located in the MIT Libraries." "— Jeffrey Ravel" >}}
 
