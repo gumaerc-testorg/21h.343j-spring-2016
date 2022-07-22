@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two students hold a piece of the printing press, while another applies
     a screw.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Image3.jpg
 uid: a3c253d5-92db-6ad7-cba0-f92ca2fcc8a6
 ---
 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-

@@ -6,6 +6,7 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/4880a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.343J/CC.120J Making Books - Lecture Slides: Natural Philosophy'
 uid: 4880a66e-6443-5dd8-050f-3e882be4652f
 ---
 This resource contains the information regarding Making Books - Lecture Slides: Natural Philosophy.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Five protective-goggle wearing students make measurements on  the frame
     of a wooden structure.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Image2.jpg
 uid: a1926f50-80e8-85c4-7967-76addc24d774
 ---
 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-

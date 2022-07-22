@@ -18,6 +18,7 @@ image_metadata:
   image-alt: A line drawing showing the top view of a printing press with words identifying
     specific parts.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
@@ -27,4 +28,3 @@ title: Image 3 - Top view diagram of  the Beaver Press
 uid: adffac5f-3ea2-87fd-ece6-ef9ec4830d05
 ---
 A top view diagram of Beaver Press.
-

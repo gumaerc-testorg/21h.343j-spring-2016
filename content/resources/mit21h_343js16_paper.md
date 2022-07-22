@@ -6,6 +6,7 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d474f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.343J/CC.120J Making Books - Lecture Slides: Paper Making'
 uid: d474feda-0106-6bb6-300f-0c1e560b69b5
 ---
 This resource contains the information regarding Making Books - Lecture Slides: Paper Making .
-

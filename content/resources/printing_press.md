@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: printing press image
 uid: 1c57a5f4-231a-dbf6-5928-6e6f900954da
 ---
 The printing press built by students in the MIT Hobby Shop.
-

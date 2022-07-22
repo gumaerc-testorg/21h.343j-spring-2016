@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: MIT Hobby Shop
 uid: 921ca4b1-7eeb-48f2-793b-c439c31e1611
 ---
 Students built a handset printing press in the MIT Hobby Shop in Spring 2016.
-

@@ -32,6 +32,7 @@ image_metadata:
   image-alt: A line drawing showing the end view of a printing press with words identifying
     specific parts.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
@@ -41,4 +42,3 @@ title: Image 1 - End view diagram of the Beaver Press
 uid: ffd3fea2-cf93-2a20-7257-9f1182251e33
 ---
 An end view diagram of the Beaver press with various parts identified.
-

@@ -5,6 +5,7 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/0b313
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21H.343J/CC.120J Making Books - Second Paper Topics
 uid: 0b313df8-93a5-f0d5-7df3-1a378c83d834
 ---
 This file contains information regarding second paper topics.
-

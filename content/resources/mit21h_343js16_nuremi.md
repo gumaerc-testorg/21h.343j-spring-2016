@@ -6,6 +6,7 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/15f88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.343J/CC.120J Making Books - Lecture Slides: Nuremberg I'
 uid: 15f88545-fa75-73c7-acf1-c7bffddf77c9
 ---
 This resource contains the information regarding Making Books - Lecture Slides: Nuremberg I .
-

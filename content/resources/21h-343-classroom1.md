@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: classroom 1
 uid: 340a93c8-b689-8e11-8995-08b5ac6ec778
 ---
 21H.343 was taught in this classroom in Spring 2016.
-

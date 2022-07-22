@@ -10,6 +10,7 @@ image_metadata:
   image-alt: A grey-haired bespectacled gentleman stands with four protective-goggle
     wearing students over the frame of a wooden structure.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Image1.jpg
 uid: f66fb7fd-8477-c107-2a83-4605d4398417
 ---
 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-

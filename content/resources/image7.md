@@ -10,6 +10,7 @@ image_metadata:
     filled with a pink, cotton-like substance. To his left, another students spreads
     a thin, flat, dry,pink-cotton-like substance on a table.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Image7.jpg
 uid: cd61eb2f-103c-6ff8-31a4-c8b80ce8b1b3
 ---
 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A greying-haired google-wearing gentleman helps a couple of students
     screw an object into a wooden block.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Image4.jpg
 uid: 6ca98871-31af-bbd2-a734-91656a05bf6f
 ---
 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-
