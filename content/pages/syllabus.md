@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading policy, required readings, and printing
+  press construction.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 206f4de1-d681-bf6b-36be-cced785c7cde
 ---
@@ -93,7 +98,7 @@ Febvre, Lucien, and Henri-Jean Martin. _The Coming of the Book: The Impact of Pr
 
 Pettegree, Andrew. _The Book in the Renaissance_. Yale University Press, 2011. ISBN: 9780300178210.
 
-All other readings can be found in the table in the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.
+All other readings can be found in the table in the {{% resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and Videos" %}} section.
 
 Printing Press Construction
 ---------------------------

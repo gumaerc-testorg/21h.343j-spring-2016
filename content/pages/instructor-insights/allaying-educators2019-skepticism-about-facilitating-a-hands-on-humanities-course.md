@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'In this section, Professor Anne McCants shares her insights about facilitating
+  a hands-on humanities course and addresses educators who may be skeptical of evaluating
+  student work in this context.     '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: "Allaying Educators\u2019 Skepticism about Facilitating a Hands-on Humanities\
   \ Course "

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: "In this section, Professor Jeffrey Ravel describes how offering students\
+  \ tangible experiences with archival materials helped ground the readings and provided\
+  \ a foundation for students\u2019 building of the press and paper-making. "
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: Using Archival Experiences to Ground Readings and Hands-on Learning
 uid: fd1f70ad-d824-664c-21d5-2724e20f0f61

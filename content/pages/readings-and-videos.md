@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides citations for course textbooks and assigned readings,
+  links to assigned videos, and various printing press reconstructions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Videos
 uid: 2bdc85db-fadb-365b-f11d-42f687b509c1
 ---
