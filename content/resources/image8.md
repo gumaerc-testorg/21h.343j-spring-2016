@@ -2,6 +2,7 @@
 content_type: resource
 description: 21H.343JS16 Image Gallery - MIT OpenCourseWare.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/a692163d71b840b6b142ec88aebf64f6_Image8.jpg
+file_size: 53308
 file_type: image/jpeg
 image_metadata:
   caption: A piece of paper dries.
