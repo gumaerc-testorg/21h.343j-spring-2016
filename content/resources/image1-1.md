@@ -2,6 +2,7 @@
 content_type: resource
 description: 21H.343JS16 Image Gallery - MIT OpenCourseWare.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/f66fb7fd8477c1072a834605d4398417_Image1.jpg
+file_size: 76214
 file_type: image/jpeg
 image_metadata:
   caption: MIT Hobby Shop's Ken Stone assists students in the building of the printing

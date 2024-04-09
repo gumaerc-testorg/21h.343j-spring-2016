@@ -2,6 +2,7 @@
 content_type: resource
 description: 21H.343JS16 Image Gallery - MIT OpenCourseWare.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/1f23122ce3fa8ee017b3521c41968ebb_Image6.jpg
+file_size: 88693
 file_type: image/jpeg
 image_metadata:
   caption: Students begin the process of making paper for the press.

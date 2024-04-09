@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/b23c6cd25c81130f21c6a56c32b03c1f_Image9.jpg
+file_size: 58089
 file_type: image/jpeg
 image_metadata:
   caption: 'Professor McCants, Professor Ravel, and students pose with copies of Astronomy:

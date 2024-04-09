@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding an educated man's journal entry
   commenting on the execution of domenico scandella.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/fab51a2280240d4177deec4ce2c11ffd_MIT21H_343JS16_Scandella.pdf
+file_size: 248193
 file_type: application/pdf
 learning_resource_types:
 - Assignments

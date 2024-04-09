@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d40f6955514d650d385fc898fb047094_Image10.jpg
+file_size: 40998
 file_type: image/jpeg
 image_metadata:
   caption: The dedication page from Introduction to Fantastic Flowers and Where to
