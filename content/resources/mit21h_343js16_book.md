@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Making Books - Lecture
   Slides: Book of Hours .'
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/9618163e7d9ac491a63b9c63e266b72c_MIT21H_343JS16_Book.pdf
+file_size: 953766
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

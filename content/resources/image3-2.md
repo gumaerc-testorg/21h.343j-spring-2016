@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/0e08d596118c63ccd13fbf91bb69f38a_Image3.jpg
+file_size: 44844
 file_type: image/jpeg
 image_metadata:
   caption: The printing press, built by 21H.343J / CC.120J in Spring 2016.

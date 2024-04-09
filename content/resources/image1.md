@@ -2,30 +2,33 @@
 content_type: resource
 description: An end view diagram of the Beaver press with various parts identified.
 file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ffd3fea2cf932a2072579f1182251e33_Image1.jpg
+file_size: 61258
 file_type: image/jpeg
 image_metadata:
-  caption: '[Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) -
-    The screw to which the bar of the press is affixed, and which produces the pressure
+  caption: '{{% resource_link "816e9aeb-d2f9-4b4f-a384-90472657153b" "Spindle" %}}
+    - The screw to which the bar of the press is affixed, and which produces the pressure
     on the platen.
 
 
-    [Head](https://www.oldbookillustrations.com/dictionary/h/head) - That part of
-    a wooden press in which the nut of the spindle is fixed.
+    {{% resource_link "bab8db33-f367-4011-be48-f0c7b4565e30" "Head" %}} - That part
+    of a wooden press in which the nut of the spindle is fixed.
 
 
     Nut
 
 
-    [Till, or Shelf](https://www.oldbookillustrations.com/dictionary/t/till) - A mahogany
-    shelf, in wooden presses, divided in two longitudinally, that clasps the hose,
-    and causes it and the spindle to come down perpendicularly without any play.
+    {{% resource_link "b176f35e-6a63-44b9-a804-18f9c601b2b9" "Till, or Shelf" %}}
+    - A mahogany shelf, in wooden presses, divided in two longitudinally, that clasps
+    the hose, and causes it and the spindle to come down perpendicularly without any
+    play.
 
 
-    [Hose](https://www.oldbookillustrations.com/dictionary/h/hose) - Two upright bars
-    of iron that connected the garter and the hose hooks, and went through the till.
+    {{% resource_link "452e37f9-53df-4140-9809-2e0e18c966f5" "Hose" %}} - Two upright
+    bars of iron that connected the garter and the hose hooks, and went through the
+    till.
 
 
-    [Platen](https://www.oldbookillustrations.com/dictionary/p/platen) - The platen
+    {{% resource_link "3eddac2f-e1b1-4887-a7b9-e941611b69d7" "Platen" %}} - The platen
     is that part of the machine which comes down upon the form, and, being acted upon
     by the spindle, produces the impression.'
   credit: Image by Ken Stone, MIT Hobby Shop.
