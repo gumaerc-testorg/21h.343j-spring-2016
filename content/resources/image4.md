@@ -5,20 +5,19 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/44bd0
 file_size: 53626
 file_type: image/jpeg
 image_metadata:
-  caption: '{{% resource_link "b176f35e-6a63-44b9-a804-18f9c601b2b9" "Till, or Shelf"
-    %}} - A mahogany shelf, in wooden presses, divided in two longitudinally, that
-    clasps the hose, and causes it and the spindle to come down perpendicularly without
-    any play.
+  caption: '[Till, or Shelf](https://www.oldbookillustrations.com/dictionary/t/till)
+    - A mahogany shelf, in wooden presses, divided in two longitudinally, that clasps
+    the hose, and causes it and the spindle to come down perpendicularly without any
+    play.
 
 
-    {{% resource_link "816e9aeb-d2f9-4b4f-a384-90472657153b" "Spindle" %}} - The screw
+    [Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) - The screw
     to which the bar of the press is affixed, and which produces the pressure on the
     platen.
 
 
-    {{% resource_link "452e37f9-53df-4140-9809-2e0e18c966f5" "Hose" %}} - Two upright
-    bars of iron that connected the garter and the hose hooks, and went through the
-    till.'
+    [Hose](https://www.oldbookillustrations.com/dictionary/h/hose) - Two upright bars
+    of iron that connected the garter and the hose hooks, and went through the till.'
   credit: Image by Ken Stone, MIT Hobby Shop.
   image-alt: A line drawing showing a view of a joint on a printing press,  with words
     identifying specific parts.
