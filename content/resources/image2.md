@@ -5,48 +5,48 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/959a3
 file_size: 50733
 file_type: image/jpeg
 image_metadata:
-  caption: '{{% resource_link "decce826-73d7-4f21-a88a-87e31f6bad2c" "Tympan" %}}
-    - A frame covered with parchment, on which the sheet of paper to be printed is
-    placed. This is the outer tympan; the inner tympan fits into it, and between the
-    parchments of the two the blankets are placed, all which being run in receive
-    the pressure of the platen, which produces the impression on the paper.
+  caption: '[Tympan](https://www.oldbookillustrations.com/dictionary/t/tympan) - A
+    frame covered with parchment, on which the sheet of paper to be printed is placed.
+    This is the outer tympan; the inner tympan fits into it, and between the parchments
+    of the two the blankets are placed, all which being run in receive the pressure
+    of the platen, which produces the impression on the paper.
 
 
-    {{% resource_link "340ef561-bfd8-4eb3-bd94-5c3ff4cb540e" "Frisket" %}} - A thin
+    [Frisket](https://www.oldbookillustrations.com/dictionary/f/frisket) - A thin
     iron frame, covered with paper, and connected temporarily with the tympan, by
     means of joints attached to it and the headband of the tympan, having iron pins
     to slip into them.
 
 
-    {{% resource_link "52ddfeae-eb0a-4018-ad2a-1e0d937f3c74" "Chase" %}} - An iron
-    frame to fasten types in to print with.
+    [Chase](https://www.oldbookillustrations.com/dictionary/c/chase) - An iron frame
+    to fasten types in to print with.
 
 
-    {{% resource_link "5d592270-31eb-4054-acd0-14ae31fe3b38" "Quoins" %}} - Short
-    pieces of beech wood, made of the same height as furniture, and tapering in their
-    width, to wedge the pages up with in a chase.
+    [Quoins](https://www.oldbookillustrations.com/dictionary/q/quoins) - Short pieces
+    of beech wood, made of the same height as furniture, and tapering in their width,
+    to wedge the pages up with in a chase.
 
 
-    {{% resource_link "880216c4-3a5b-495b-9639-de3d21104a84" "Form" %}} - The pages
-    when they are imposed and locked up in a chase are called a Form.
+    [Form](https://www.oldbookillustrations.com/dictionary/f/form) - The pages when
+    they are imposed and locked up in a chase are called a Form.
 
 
-    {{% resource_link "c71a0eb3-4260-4467-8d80-3bd13307488e" "Furniture" %}} - The
+    [Furniture](https://www.oldbookillustrations.com/dictionary/f/furniture) - The
     term furniture includes all those pieces of wood that are used in branching out
     pages, or jobs; in making margin for the folding of books; and in locking up forms
     when they are imposed.
 
 
-    {{% resource_link "e560416d-cf2e-4f76-8e23-362795dba0be" "Coffin" %}} - That part
+    [Coffin](https://www.oldbookillustrations.com/dictionary/c/coffin) - That part
     of a wooden press, in which the stone is bedded.
 
 
-    {{% resource_link "816e9aeb-d2f9-4b4f-a384-90472657153b" "Spindle" %}} - The screw
+    [Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) - The screw
     to which the bar of the press is affixed, and which produces the pressure on the
     platen.
 
 
-    {{% resource_link "3eddac2f-e1b1-4887-a7b9-e941611b69d7" "Platen" %}} - The platen
+    [Platen](https://www.oldbookillustrations.com/dictionary/p/platen) - The platen
     is that part of the machine which comes down upon the form, and, being acted upon
     by the spindle, produces the impression.'
   credit: Image by Ken Stone, MIT Hobby Shop

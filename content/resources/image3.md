@@ -5,13 +5,13 @@ file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/adffa
 file_size: 48115
 file_type: image/jpeg
 image_metadata:
-  caption: '{{% resource_link "816e9aeb-d2f9-4b4f-a384-90472657153b" "Spindle" %}}
-    - The screw to which the bar of the press is affixed, and which produces the pressure
+  caption: '[Spindle](https://www.oldbookillustrations.com/dictionary/s/spindle) -
+    The screw to which the bar of the press is affixed, and which produces the pressure
     on the platen.
 
 
-    {{% resource_link "bab8db33-f367-4011-be48-f0c7b4565e30" "Head" %}} - That part
-    of a wooden press in which the nut of the spindle is fixed.
+    [Head](https://www.oldbookillustrations.com/dictionary/h/head) - That part of
+    a wooden press in which the nut of the spindle is fixed.
 
 
     Nut'
