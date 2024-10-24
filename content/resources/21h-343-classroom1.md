@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 21H.343 was taught in this classroom in Spring 2016.
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/340a93c8b6898e11899508b5ac6ec778_21h-343-classroom1.jpg
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/340a93c8b6898e11899508b5ac6ec778_21h-343-classroom1.jpg
 file_size: 62861
 file_type: image/jpeg
 image_metadata:
