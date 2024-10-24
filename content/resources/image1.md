@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An end view diagram of the Beaver press with various parts identified.
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ffd3fea2cf932a2072579f1182251e33_Image1.jpg
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ffd3fea2cf932a2072579f1182251e33_Image1.jpg
 file_size: 61258
 file_type: image/jpeg
 image_metadata:

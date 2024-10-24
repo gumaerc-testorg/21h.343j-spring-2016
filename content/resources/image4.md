@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A section view of joint details diagram of the Beaver Press.
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/44bd0ce552b196f675448b2e78018c93_Image4.jpg
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/44bd0ce552b196f675448b2e78018c93_Image4.jpg
 file_size: 53626
 file_type: image/jpeg
 image_metadata:
