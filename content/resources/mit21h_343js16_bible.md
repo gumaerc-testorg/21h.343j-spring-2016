@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Making Books - Lecture
   Slides: Bible In Print .'
-file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/542dd841f35e2fc2e8e4a9bd5345259d_MIT21H_343JS16_Bible.pdf
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/542dd841f35e2fc2e8e4a9bd5345259d_MIT21H_343JS16_Bible.pdf
 file_size: 1994130
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding second paper topics.
-file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/0b313df893a5f0d57df31a378c83d834_MIT21H_343JS16_Paper2.pdf
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/0b313df893a5f0d57df31a378c83d834_MIT21H_343JS16_Paper2.pdf
 file_size: 239152
 file_type: application/pdf
 learning_resource_types:

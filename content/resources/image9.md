@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 21H.343JS16 Image Gallery - MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/2304bf16c67a86aca88e681a582c889b_Image9.jpg
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/2304bf16c67a86aca88e681a582c889b_Image9.jpg
 file_size: 63393
 file_type: image/jpeg
 image_metadata:
