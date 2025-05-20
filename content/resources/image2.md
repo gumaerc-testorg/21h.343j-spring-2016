@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A side view diagram of Beaver Press.
-file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/959a3c47f21d78f99d42c7467a08d4d1_Image2.jpg
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/959a3c47f21d78f99d42c7467a08d4d1_Image2.jpg
 file_size: 50733
 file_type: image/jpeg
 image_metadata:

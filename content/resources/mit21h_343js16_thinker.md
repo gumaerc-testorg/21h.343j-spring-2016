@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding the thinker.
-file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/15fe95958becf5143337cfb3e47d41a9_MIT21H_343JS16_Thinker.pdf
+file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/15fe95958becf5143337cfb3e47d41a9_MIT21H_343JS16_Thinker.pdf
 file_size: 140704
 file_type: application/pdf
 learning_resource_types:
