@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Making Books - Lecture
   Slides: Paper Making .'
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d474feda01066bb6300f0c1e560b69b5_MIT21H_343JS16_Paper.pdf
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/d474feda01066bb6300f0c1e560b69b5_MIT21H_343JS16_Paper.pdf
 file_size: 4155930
 file_type: application/pdf
 learning_resource_types:
