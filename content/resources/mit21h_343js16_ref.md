@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Making Books - Lecture
   Slides: Reformation Images .'
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/9ee1c08650f8af398a71c827a0e08b19_MIT21H_343JS16_Ref.pdf
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/9ee1c08650f8af398a71c827a0e08b19_MIT21H_343JS16_Ref.pdf
 file_size: 2953589
 file_type: application/pdf
 learning_resource_types:
