@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Making Books - Lecture
   Slides: Natural Philosophy.'
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/4880a66e64435dd8050f3e882be4652f_MIT21H_343JS16_Philo.pdf
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/4880a66e64435dd8050f3e882be4652f_MIT21H_343JS16_Philo.pdf
 file_size: 7048677
 file_type: application/pdf
 learning_resource_types:

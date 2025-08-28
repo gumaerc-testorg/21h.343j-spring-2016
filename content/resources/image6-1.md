@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ee91fbd60ec7bd9522f530f9905abe5e_Image6.jpg
+file: /ol-ocw-studio-app/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/ee91fbd60ec7bd9522f530f9905abe5e_Image6.jpg
 file_size: 79936
 file_type: image/jpeg
 image_metadata:
