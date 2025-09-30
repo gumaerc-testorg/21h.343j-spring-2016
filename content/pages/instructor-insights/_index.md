@@ -10,18 +10,18 @@ uid: 364e7205-8baf-876d-eff7-770f80369e00
 
 This page focuses on the course *21H.343J / CC.120J* *Making Books: The Renaissance and Today* as it was taught by Professors Anne McCants and Jeffrey S. Ravel in Spring 2016.
 
-Part of the [Concourse](http://concourse.mit.edu/) program at MIT, this course explored the impact of new technology on the recording and distribution of words and images at three different times: the invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19{{< sup "th" >}} century (telegraph, telephone, photograph); and the emergence of digital media today.
+Part of the {{% resource_link "3bd2a122-a1bf-41bb-ab88-7f888430b220" "Concourse" %}} program at MIT, this course explored the impact of new technology on the recording and distribution of words and images at three different times: the invention of the printing press ca. 1450; the adaptation of electricity to communication technology in the 19{{< sup "th" >}} century (telegraph, telephone, photograph); and the emergence of digital media today.
 
 Assignments included essays and online projects. Students also participated in the design and construction of a hand-set printing press. Learn more here:
 
-Melanie Gonick, “[The History of Making Books: Building a Printing Press at MIT](https://www.youtube.com/watch?v=ioPT8oDoG_I&feature=youtu.be),” MIT News, May 25, 2016.
+Melanie Gonick, “{{% resource_link "bfaf3c11-85a6-492f-8ed8-dc21e497388b" "The History of Making Books: Building a Printing Press at MIT" %}},” MIT News, May 25, 2016.
 
 ## Course Outcomes
 
 ### Course Goals for Students
 
 - Learn about the history of the book in Europe from Gutenberg (ca. 1450) to the French Revolution (ca. 1800).
-- Examine in detail European books and prints from 1450 to 1800 in the [Rare Books Collection](https://libraries.mit.edu/distinctive-collections/collections/rare-books/) of the MIT Libraries and the [MIT Museum](http://web.mit.edu/museum/).
+- Examine in detail European books and prints from 1450 to 1800 in the {{% resource_link "f9fa7d1e-4b32-406e-97f0-2c1d66f2dc01" "Rare Books Collection" %}} of the MIT Libraries and the {{% resource_link "f9a0d368-dadf-4fa9-a329-3956eaf278d3" "MIT Museum" %}}.
 - Build a functioning, durable printing press based on Early Modern European designs.
 - Consider the parallels between the world of print in the Early Modern period and the rapidly changing media landscape today.
 
@@ -58,7 +58,7 @@ None
 
 HASS-H
 
-21H.343J can be applied toward a [Bachelor of Science in Humanities and History](http://history.mit.edu/undergraduate), but is not required.
+21H.343J can be applied toward a {{% resource_link "26377f61-62c4-4432-9ee1-2794da36077d" "Bachelor of Science in Humanities and History" %}}, but is not required.
 
 ### Offered
 
@@ -91,9 +91,9 @@ Mostly juniors and seniors
 
 ### Typical Student Background
 
-Prior to enrolling in the course, one student had taken [*21H.141 Renaissance To Revolution: Europe, 1300-1800*](https://ocw-studio.odl.mit.edu/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015). Another had taken [*21H.009 The World: 1400-Present*](https://ocw-studio.odl.mit.edu/courses/21h-009-the-world-1400-present-spring-2014)*.* The rest were new to the material. None of the students had built a printing press previously, and only two were aware of MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
+Prior to enrolling in the course, one student had taken {{% resource_link "8bbbce4e-6b19-4b96-933d-2eaf64d86745" "*21H.141 Renaissance To Revolution: Europe, 1300-1800*" %}}. Another had taken {{% resource_link "b53dc181-ecec-4b16-8907-44d45f3a21ac" "*21H.009 The World: 1400-Present*" %}}*.* The rest were new to the material. None of the students had built a printing press previously, and only two were aware of MIT’s {{% resource_link "7c9025b0-4d22-4f64-8ca5-1b91f9a6c791" "Rare Books Collection" %}}.
 
-Some of the students were also participants in the [Concourse](http://concourse.mit.edu/) program at MIT. Among other things, the Concourse project engages students in collective deep reading in the humanities and was a critical factor in generating enthusiasm for the course.
+Some of the students were also participants in the {{% resource_link "3bd2a122-a1bf-41bb-ab88-7f888430b220" "Concourse" %}} program at MIT. Among other things, the Concourse project engages students in collective deep reading in the humanities and was a critical factor in generating enthusiasm for the course.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
@@ -104,13 +104,13 @@ During an average week, students were expected to spend 15 hours on the course, 
 ### Seminar
 
 - Met 2 times per week for 1.5 hours per session; 13 sessions total; mandatory attendance.
-- Class sessions were discussion-based and several included an exploration of items from MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
-- A field trip to the [MIT Museum](http://mitmuseum.mit.edu/) enabled students to view visual material dating from 1500 to 1800.
+- Class sessions were discussion-based and several included an exploration of items from MIT’s {{% resource_link "7c9025b0-4d22-4f64-8ca5-1b91f9a6c791" "Rare Books Collection" %}}.
+- A field trip to the {{% resource_link "980392c0-e91e-4fc9-92d7-9781dc5e064f" "MIT Museum" %}} enabled students to view visual material dating from 1500 to 1800.
 
 ### Hands-on Lab
 
 - Met twice a week for 1.5 hours per session; 13 sessions total; mandatory attendance.
-- Students worked in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop) to design and build a printing press.
+- Students worked in the {{% resource_link "54bcc454-fdb9-4adf-842d-03e81faacb33" "MIT Hobby Shop" %}} to design and build a printing press.
 
 ### Out of Class
 
@@ -128,4 +128,4 @@ During the first class meeting, the instructors divided the students into two gr
 
 ### Co-Instructor (Mr. Ken Stone, MIT Hobby Shop Director)
 
-Mr. Stone helped plan the course and supervised the building of the printing press in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop).
+Mr. Stone helped plan the course and supervised the building of the printing press in the {{% resource_link "54bcc454-fdb9-4adf-842d-03e81faacb33" "MIT Hobby Shop" %}}.
